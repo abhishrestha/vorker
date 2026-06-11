@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables - NEVER commit this
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ADK cache
+.adk/
+
+# VS Code
+.vscode/
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+logs/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
